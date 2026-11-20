@@ -71,11 +71,11 @@ We may update this Privacy Policy when necessary. Any changes will be published 
 ## 12. Contact Information
 For privacy questions, data access requests, or deletion requests, please contact:
 
-**Bot Owner:** [YOUR NAME OR USERNAME]
+**Bot Owner:** c5.p
 
-**Support Server:** [YOUR DISCORD SUPPORT SERVER LINK]
+**Support Server:** https://discord.gg/molly1
 
-**Contact Email:** [YOUR SUPPORT EMAIL]
+**Contact Email:** adhamabutmam3@gmail.com
 
 ---
 
